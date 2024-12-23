@@ -1,15 +1,14 @@
 ## Hi there, I'm Michael 👋
-<a href="[https://linkedin.com](https://www.linkedin.com/in/michael-akintuyosi-025317183/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
 Welcome to my GitHub profile! I'm **Michael Akintuyosi**, a cybersecurity enthusiast and aspiring security analyst. Here's a little more about me:
 
 - 🔭 I’m currently working on projects that focus on cybersecurity, including vulnerability management, Active Directory, and system security.
-- 🌱 I’m currently learning advanced cybersecurity concepts, studying for the CompTIA Security+ certification, and exploring VPNs and pfSense.
 - 👯 I’m looking to collaborate on open-source security tools and other cybersecurity-related projects.
-- 🤔 I’m looking for help with breaking into the cybersecurity field and transitioning into a Security Analyst role.
-- 💬 Ask me about cybersecurity topics, Active Directory, virtualization, and network security basics.
-- 📫 How to reach me: You can connect with me via [LinkedIn](https://www.linkedin.com/) or email at michael.akintuyosi@example.com.
+- 🤔 I’m looking for help with breaking into the cybersecurity field and transitioning into a Security or SOC Analyst role.
+- 📫 How to reach me: You can connect with me via <a href="https://www.linkedin.com/in/michael-akintuyosi-025317183/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> or email at makintuyosi@yahoo.com.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a huge Arsenal fan and love reading financial education books!
+- ⚡ Fun fact: I'm a huge soccer fan and love reading financial education books!
 
 ---
 
