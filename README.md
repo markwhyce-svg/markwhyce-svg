@@ -1,4 +1,4 @@
-# 👨‍💻 Michael Akintuyosi – Projects Portfolio
+# 👨‍💻 Projects Portfolio
 
 Welcome to my cybersecurity and technology portfolio — a collection of hands-on projects that showcase my passion for solving problems, securing systems, and continuously learning. Each project reflects real-world concepts and skills I've developed as I work toward a career in Identity & Access Management (IAM), Vulnerability Management, and Security Operations.
 
