@@ -32,6 +32,14 @@ A 6-project series exploring user access, roles, lifecycle management, and monit
 ➡️ [View the full IAM Project Series](https://github.com/markwhyce-svg/iam-project-series)
 
 ---
+### 🧑‍💼 Managing Identity in Okta: User Definition & Role Assignment
+
+This lab demonstrates how to define and manage users in **Okta**, including manual user creation, CSV user imports, and assigning administrative roles with proper lifecycle monitoring.
+
+✅ Skills practiced: Okta Admin Console, Role Assignment, System Logs  
+➡️ [View the project](https://github.com/markwhyce-svg/okta-user-management-lab)
+
+---
 
 ### 🛡️ Vulnerability Management (Coming Soon)
 Projects related to vulnerability scanning, patch management, and secure configurations.
