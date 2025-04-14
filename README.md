@@ -27,7 +27,7 @@ With a background in technical support, I’ve spent the past few years gaining 
 
 ## 📂 Project Categories
 
-### 🔐 Identity & Access Management (IAM)
+### 🔐 Azure AD IAM Series
 A 6-project series exploring user access, roles, lifecycle management, and monitoring in Azure AD  
 ➡️ [View the full IAM Project Series](https://github.com/markwhyce-svg/iam-project-series)
 
