@@ -28,12 +28,12 @@ With a background in technical support, I’ve spent the past few years gaining 
 ## 📂 Project Categories
 
 ### 🔐 Azure AD IAM Series
-A 6-project series exploring user access, roles, lifecycle management, and monitoring in Azure AD  
+A 5-project series exploring user access, roles, lifecycle management, and monitoring in Azure AD  
 ➡️ [View the full IAM Project Series](https://github.com/markwhyce-svg/iam-project-series)
 
 ---
-### 🔐 Okta IAM Lab Series  
-A growing series of hands-on labs using **Okta** to manage users, groups, access roles, and lifecycle policies.  
+### 🔐 Okta IAM Series  
+A 3-project series using **Okta** to manage users, groups, access roles, and lifecycle policies.  
 ➡️ [View the full Okta Lab Series](https://github.com/markwhyce-svg/okta-iam-lab-series)
 
 ---
