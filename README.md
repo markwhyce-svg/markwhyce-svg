@@ -18,7 +18,7 @@ With a background in technical support, I’ve spent the past few years gaining 
 - ☁️ Azure Active Directory
 - 🧱 Conditional Access, RBAC, PIM
 - 📊 Security Event Monitoring & SIEM (Azure Sentinel)
-- ⚙️ Windows Server, pfSense, Linux (Ubuntu)
+- ⚙️ Windows Server, pfSense, and Linux
 - 💻 Scripting (PowerShell, Bash basics)
 - 📡 Network fundamentals (TCP/IP, DNS, DHCP)
 - 🧪 Cybersecurity Labs (TryHackMe, project-based learning)
