@@ -37,19 +37,9 @@ A 3-project series using **Okta** to manage users, groups, access roles, and lif
 ➡️ [View the full Okta Lab Series](https://github.com/markwhyce-svg/okta-iam-lab-series)
 
 ---
-
-### 🛡️ Vulnerability Management (Coming Soon)
-Projects related to vulnerability scanning, patch management, and secure configurations.
-
----
-
-### 🔍 Forensics & Incident Response (Coming Soon)
-Labs involving evidence collection, malware analysis, and basic threat hunting.
-
----
-
-### ⚙️ Infrastructure & Automation (Coming Soon)
-Scripts, server configuration labs, and automation workflows using tools like PowerShell or Ansible.
+### 🖥️ Operating System Security Series  
+A project series focused on securing Windows and Linux environments through permission controls, patch management, user auditing, and hardening techniques.  
+➡️ [View the full OS Security Series](https://github.com/markwhyce-svg/os-security-series)
 
 ---
 
