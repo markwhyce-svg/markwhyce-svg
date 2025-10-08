@@ -6,9 +6,9 @@ Welcome to my cybersecurity and technology portfolio — a collection of hands-o
 
 ## 🙋‍♂️ About Me
 
-I'm currently pursuing a Bachelor of Science in **Computing and Security Technology** at **Drexel University**, with a strong academic foundation (GPA 3.98). I hold the **CompTIA Network+** certification and am preparing for the **Security+** exam.
+I’m currently pursuing a Master’s degree in IT Auditing & Cybersecurity at Temple University, having recently earned my Bachelor of Science in Computing and Security Technology from Drexel University with a 3.95 GPA. I hold the CompTIA Network+ and Security+ certifications.
 
-With a background in technical support, I’ve spent the past few years gaining hands-on experience while transitioning into cybersecurity. My interests lie in **IAM**, **Cloud Security**, **Vulnerability Management**, and **Security Operations**, and I’m building this portfolio to showcase my capabilities through labs, research, and self-guided projects.
+With hands-on experience in technical support, system operations, and security monitoring, I’ve developed a strong foundation in both Windows and Linux environments. My interests include Identity & Access Management (IAM), Security Operations, Vulnerability Management, and Cloud Security, and I use this portfolio to showcase real-world projects, research, and automation work aligned with those domains.
 
 ---
 
